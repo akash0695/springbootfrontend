@@ -1,0 +1,13 @@
+
+  
+  :host(.active) {
+    font-weight: bold;
+    
+  }
+  :host {
+    display: block;
+    background-color: green;
+    color: white;
+    text-align: center;
+  }
+  
